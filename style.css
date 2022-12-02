@@ -1,0 +1,58 @@
+/* body{
+    background-image:url("./images/6885d135e4a1-Case+Study+Rocket+Image.png");
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+input{
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+    width: 100px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background: darkred;
+} */
+body {
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+h1 {
+    color: goldenrod;
+
+}
+#message {
+    color: white;
+    font-style: italic;
+    
+}
+#buttonOne,#buttonTwo{
+    color:#016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#buttonTwo {
+    margin-top: 4px;
+}
+
